@@ -1,10 +1,10 @@
 # lab_programacao
 Referente a matéria de laboratório de programação.
-##Laboratorio de Programação 
+## Laboratorio de Programação 
 Bem-vindos ao  repositorio central de disciplina.
 **Laboratorio de Programação**. Este espaço foi projetado para ser o ponto de encontro entre a teoria e a pratica, onde transformamos lógica os software funcional.
 
-##O que é README?
+## O que é README?
 Este arquivo foi escrito em **Markdown**, uma linguagem de marcação leve que você usará constatemente em sua carreira para documentar projetos, criar wikis no Github e estruturar mensagem técnica.
 **Dica de Markdown:** você pode criar citações com esta usando o caracter '<'
 ---
