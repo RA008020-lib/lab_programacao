@@ -18,4 +18,4 @@ A máteria de Laboratório de Programação é o coração da formação de um d
 ## Tabela de conteudos
 | Aula | Topico | Status |
 | :--- | :--- | :--- |
-| 01 | Inrodução ao ambiente de terminal | 
+| 01 | Introdução ao ambiente de terminal | 
